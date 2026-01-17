@@ -3,10 +3,31 @@
 ##1. Audit Scope
 The scope of this internal security audit of Botium Toys will be reviewing the entire security program and the IT systems that support both physical and online business operations.
 To do this I will be reviewing all critical assets, as well as internal processes and procedures managed by the IT department.
+
 ##2. Audit Goals
 The goal of this audit is to assess the existing assets and to complete the controls and complaince checklist, by doing this I will be able to identify which security controls and complaince best practices
 which should then be implemented to help strengthen Botium Toys overall security. 
+
 ##3. Assets Managed by the IT Department
+-The employees equipment: end-user devices like(Desktops/laptops, smartphones), then they have remote worksations, cables, mice, survei;ance cameras, headsets
+-Management of systemes, software, and services: database, security, ecommerce, inventory management and accounting
+-Internal access
+-Internal network
+-Storefront products available for retail sales this can be online and in store; stored in the company's adjoining warehouse
+Legacy system maintenance: end of life systems that will require human monitoring
+-Data rentention and storage
 
 ##4. Risk Assessment Summary
+At this moment in time Botium Toys is lacking comprehensive security contros and effective asset management. They also dont have sufficoent administrative, technical and physical conrols
+in places, and because of this Botium Toys aren't compliant with applicable U.S and international regulations, DSS, GDPR and PCI. Haviving these issues increases the likelihood of 
+potential data breaches, operational disruptions and regulatory penalties.
+Risk Score 
+1 out of 10 i would give Botium Toys an 8, this is a high level of risk which shows in the lack of security controls, monitoring, also weak access managment.
+
 ##5. Compliance and Regulatory Considerations
+Botium Toys is subjected to a few compliance and regulatory requirements due to their business operations, which inculdes online payment processing and conducting business with
+customers in the EU.
+GDPR(General Data Protection Regulation)
+Since they have customers in the EU, they must comply with the regulations related to the protection of personal data, however currently Botium Toys lacks suffcient data
+protection controls, such as access controls encryption and documented incident resonse procedures, if failure to comply with the GDPR could lead to regulatory fines and 
+reputational damages.
